@@ -1,4 +1,6 @@
-# Personalized Mac Setup for Programming
+# Mac Setup for Programming
+<img width="1920" alt="Screenshot 2023-06-23 at 8 48 29 PM" src="https://github.com/Kavinjsir/mac-setup/assets/18136486/1a102b87-9b6e-4dee-be55-1ce6eaf2d543">
+
 
 ## Brew
 
