@@ -1,0 +1,6 @@
+# Include hidden files
+--hidden
+
+# Using glob patterns to exclude .git
+--glob=!.git/
+--glob=!.node_modules/

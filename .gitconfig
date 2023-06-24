@@ -1,0 +1,10 @@
+[user]
+  name = Tony Jin
+  email = kavinjsir@gmail.com
+[core]
+  editor = vi
+  pager = diff-so-fancy | less --tabs=4 -RFX
+[interactive]
+  diffFilter = diff-so-fancy --patch
+[init]
+	defaultBranch = main
